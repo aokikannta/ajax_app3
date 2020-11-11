@@ -1,0 +1,9 @@
+.post{ 
+  border :solid 3px red;
+  width: auto;
+  margin: auto;
+}
+
+.post-date{
+  color:black
+}
